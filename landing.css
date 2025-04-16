@@ -1,0 +1,10 @@
+body{
+    display: flex;
+    flex-direction: column;
+}
+.sign-up{
+    padding: 20px;
+}
+.sign-up-content{
+    background-color: blue;
+}
